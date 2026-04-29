@@ -108,5 +108,3 @@ if __name__ == '__main__':
                 turn = 1
             print(f"Congratulations! Player {turn} has won the game!")
         play, board = play_on(board)
-
-#testest
